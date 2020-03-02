@@ -1,0 +1,19 @@
+{
+  "name": "videogamepediaapi",
+  "version": "1.0.0",
+  "description": "RESTful API for acessing Video game Sales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobakOftadeh/VideoGamePediaAPI.git"
+  },
+  "author": "Bobak Oftadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobakOftadeh/VideoGamePediaAPI/issues"
+  },
+  "homepage": "https://github.com/BobakOftadeh/VideoGamePediaAPI#readme"
+}
